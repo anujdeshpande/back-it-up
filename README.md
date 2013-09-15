@@ -9,7 +9,7 @@ DESCRIPTION
 
 	The biu command provides a command line interface to mark folders that will be backed up to a physically connected external drive
 
-Options:
+OPTIONS
 
 	autostart [y/n]
 		options:
