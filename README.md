@@ -7,7 +7,7 @@ NAME
 
 DESCRIPTION
 
-	The biu command provides a command line interface to mark folders that will be backed up to a physically connected external drive
+	The biu command provides a command line interface to mark folders that will be backed up to the desired location in compressed format
 
 OPTIONS
 
