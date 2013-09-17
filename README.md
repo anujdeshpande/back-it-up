@@ -44,6 +44,7 @@ OPTIONS
 		Verbose mode
 
 AUTHORS
+
 	Amogh Palnitkar, Anuj Deshpande
 	
 COPYRIGHT
