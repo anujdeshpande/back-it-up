@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/perl -w -X
 
 $arg1=$ARGV[0];
 
